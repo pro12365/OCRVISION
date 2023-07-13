@@ -1,0 +1,6 @@
+Flask 
+pillow
+google-cloud-vision                                                                                                                                                        
+python-dotenv                                                                                                                                                      
+requests                                                                                                                                                                                   
+flask-cors
